@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-website",
+  "name": "rob-tech-consultancy",
   "version": "1.0.0",
-  "description": "Portfolio Website",
+  "description": "Rob Portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
